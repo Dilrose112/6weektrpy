@@ -1,0 +1,5 @@
+print('hello')
+print('bye')
+print('he',end="")
+print('lmet')
+print()
